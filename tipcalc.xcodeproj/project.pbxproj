@@ -482,6 +482,7 @@
 				9379138F1D906BE600C9237E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		937913901D906BE600C9237E /* Build configuration list for PBXNativeTarget "tipcalcTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				937913921D906BE600C9237E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		937913931D906BE600C9237E /* Build configuration list for PBXNativeTarget "tipcalcUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +500,7 @@
 				937913951D906BE600C9237E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
